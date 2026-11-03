@@ -5,6 +5,7 @@ An automated pipeline that collects the latest AI news from across the US every 
 **Want your own copy?** Jump to [Get your own daily digest](#get-your-own-daily-digest). It takes about 10 minutes, costs nothing, and needs no coding.
 
 ![AI Daily Digest architecture](assets/ai_daily_digest_architecture.gif)
+<img width="900" height="540" alt="ai_daily_digest_architecture" src="https://github.com/user-attachments/assets/4906bd3b-c9a5-4c39-8588-9e12dbbbbfb2" />
 
 ## How it works
 
