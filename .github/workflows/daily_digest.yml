@@ -2,7 +2,7 @@ name: AI Daily Digest
 
 on:
   schedule:
-    - cron: "0 12 * * *" # 12:00 UTC = 7:00 AM Boston time (EST)
+    - cron: "0 15 * * *" # 15:00 UTC = 10:00 AM Boston time (EST)
   workflow_dispatch: # adds a "Run workflow" button for manual tests
 
 jobs:
